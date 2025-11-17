@@ -1,0 +1,2 @@
+# StudentManagementSystem001
+用C语言实现的简易学生信息管理系统，使用TXT文件进行数据存储与读写。
